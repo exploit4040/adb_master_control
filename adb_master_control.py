@@ -16,10 +16,10 @@
 #   ░╚════╝░░╚════╝░╚═╝░░╚══╝░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚══════╝
 #
 #   Version  : 2.0 ELITE
-#   Auteur   : ML  |  github.com/exploit4040
-#   Fusion   : disable_google_play_services.py
-#              enable_google_play_services.py
-#              parametreopp.py
+#   Auteur   : SPECTRA  |  github.com/exploit4040
+#   
+#   
+#   
 #
 #   Installation :
 #       pip install customtkinter matplotlib
@@ -39,7 +39,7 @@ import tkinter as tk
 from tkinter import filedialog, messagebox
 from datetime import datetime
 
-# ── Auto-installation des dépendances ────────────────────────────────────────
+
 def _ensure(pkg):
     try:
         __import__(pkg)
