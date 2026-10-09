@@ -290,3 +290,12 @@ Avertissement légal
 
         Testez toujours sur un appareil de test avant la production
 
+Licence
+
+Ce projet est sous licence MIT - voir le fichier LICENSE pour plus de détails.
+Contact
+
+    GitHub : @exploit4040
+
+Learn. Break. Fix. Automate. Repeat.
+
